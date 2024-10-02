@@ -1,5 +1,4122 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 40,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "80abc33e-2f7f-4bc3-9b65-624a4e66e753"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2714 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "634a2f56-f3b6-4eb7-8f26-86e803c036cb"
+    },
+    {
+      "start_time": 53,
+      "end_time": 61,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "044547f4-04d0-43de-b662-b7ecf4c3d6d7"
+    },
+    {
+      "start_time": 62,
+      "end_time": 180,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "3cf90901-2027-4f79-a6f1-8847afc51bc8"
+    },
+    {
+      "start_time": 184,
+      "end_time": 340,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "913a063d-38a7-4b46-b61b-8a2d929cee54"
+    },
+    {
+      "start_time": 341,
+      "end_time": 344,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2715 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "30fc7697-630b-4a03-baa6-abfc2cf988fb"
+    },
+    {
+      "start_time": 347,
+      "end_time": 360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "6161b03d-c996-4a46-8c6d-32965c1ab547"
+    },
+    {
+      "start_time": 359,
+      "end_time": 518,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "cee7ef63-30ec-42b7-a10c-8c6eb91faa84"
+    },
+    {
+      "start_time": 524,
+      "end_time": 626,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "a2e7e2c1-cf05-45f3-b07d-7a23fb60630d"
+    },
+    {
+      "start_time": 638,
+      "end_time": 641,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2715 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "5cdaf176-2e0a-4345-83b1-4a2b6d207bc1"
+    },
+    {
+      "start_time": 646,
+      "end_time": 686,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "d5cc718d-1501-4cc7-a52f-a3cfcce9af93"
+    },
+    {
+      "start_time": 686,
+      "end_time": 697,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "8b6530c4-0f23-481a-8a41-c52384f5c71b"
+    },
+    {
+      "start_time": 697,
+      "end_time": 771,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "139e7fea-08d9-4f76-ad80-fbd4a60c7928"
+    },
+    {
+      "start_time": 771,
+      "end_time": 782,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "15eacac6-8174-4861-a9a8-d9a833bfc9e8"
+    },
+    {
+      "start_time": 782,
+      "end_time": 790,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "754c237e-87f3-477e-9a4a-3195d4a8619f"
+    },
+    {
+      "start_time": 802,
+      "end_time": 825,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "b2f329a0-2f16-4867-8c97-88bb729a9ec6"
+    },
+    {
+      "start_time": 825,
+      "end_time": 837,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "24423027-45e1-4f3e-9936-05a86d4f19a2"
+    },
+    {
+      "start_time": 837,
+      "end_time": 872,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "603570ab-b049-42ad-9d67-f42ae90df301"
+    },
+    {
+      "start_time": 872,
+      "end_time": 885,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "50e80021-1baa-469c-bbeb-d61443fc07a7"
+    },
+    {
+      "start_time": 885,
+      "end_time": 930,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "9eea3118-ba24-4d8f-853a-4c79ee2a6612"
+    },
+    {
+      "start_time": 936,
+      "end_time": 939,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2716 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "b66c1bfc-193c-430d-8927-f8e3f1d1616b"
+    },
+    {
+      "start_time": 944,
+      "end_time": 950,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "7443cd19-6a96-4dfd-8f75-da3866118b93"
+    },
+    {
+      "start_time": 950,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "1870fe91-c866-471f-97d9-c72c7a2a0d23"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b32d9764-b2fc-41bf-ac83-babfd5e90657"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "4baa6cbf-0e86-4f4e-95d9-9e71cdedf6f2"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2716 B1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "b76aaab9-8b77-441a-b96a-96486d2b35c0"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Let's play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ef694045-35f1-4e6d-8cd8-9baf0e2c602f"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "a7b5950d-f279-486c-bcdb-e6aa8a49c3ff"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2717 A1, 2, and3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "36fd6534-0c4f-4964-8712-f9de5a817522"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1450,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "fedc425e-97f1-4e03-a60e-eb6d40ea00cf"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "847ef23b-02c3-4d57-b248-ad5e4a68a500"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "4153f7e7-075c-4bed-8a90-cf3c4ecd37a8"
+    },
+    {
+      "start_time": 1473,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "2c3da7a4-e58c-4c50-9dce-01366ade20d2"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "5322f16e-f84b-43b8-acbc-48e7d34b217b"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1489,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "c94cdc8b-9dd0-4e43-ba29-ef1716cbe979"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "e05e4ddd-f220-48fb-8ea8-039cd7486e13"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "f8c73b92-1f6f-42bb-a1dc-bbe7afb1e8fa"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "06a0de98-10d8-4230-b920-562561df267e"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2717 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "24433517-e76d-4355-9e2a-cdb610317672"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "60264c02-d9f4-411e-bb29-ed105888fc14"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1866,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "d9918974-2ff6-4316-8d63-ad55d6977704"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1970,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "0051de65-84e3-4e93-9e4b-e7d1d887cc29"
+    },
+    {
+      "start_time": 1973,
+      "end_time": 1977,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2718 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "7e3c5c21-8734-4a43-b582-470e05f7073f"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 1980,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3dcfa7fa-5268-4d4d-a25b-234e0f08d6fe"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing with ukulele"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "99f2d66b-44ea-49c6-be34-45647183773c"
+    },
+    {
+      "start_time": 2148,
+      "end_time": 2150,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible] Now go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e20c219d-3f4d-4bb7-8548-d8e2e9c1ddfa"
+    },
+    {
+      "start_time": 2150,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "9c595e63-f516-419b-9d55-78b42d3fa75d"
+    },
+    {
+      "start_time": 2257,
+      "end_time": 2261,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2718 B1, 2 and 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "646a916c-7989-411c-836a-96522275884c"
+    },
+    {
+      "start_time": 2263,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "748b56e5-7e42-409d-ab74-9030f67476d3"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2433,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "e9dfbff0-6f5b-41ae-8cd1-d5e02ea21db1"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright sing!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e7a83735-d6d0-4b15-a000-11de60053259"
+    },
+    {
+      "start_time": 2441,
+      "end_time": 2488,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "37cfc4c5-72b5-4067-b6b2-7fa6020df844"
+    },
+    {
+      "start_time": 2491,
+      "end_time": 2493,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead. Sing it again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "229cd060-aa49-4d42-a6af-c87bd724376d"
+    },
+    {
+      "start_time": 2493,
+      "end_time": 2493,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "1164bf48-37fb-4fb0-ac0d-edc966d4d4dd"
+    },
+    {
+      "start_time": 2508,
+      "end_time": 2508,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "6337797c-d13c-4abd-b156-5f0badb894f0"
+    },
+    {
+      "start_time": 2542,
+      "end_time": 2544,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "2720 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "0e00e042-69b1-4332-8fee-ba1d4339e1ea"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "2d1b2ffc-fd97-4c64-a142-fc575670d54d"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "f0cc2210-813f-4e0a-93ef-0d25126ceef8"
+    },
+    {
+      "start_time": 2720,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
+        }
+      ],
+      "uuid": "4c367194-5ed9-43cd-91aa-501416f2e7ed"
+    },
+    {
+      "start_time": 2726,
+      "end_time": 2728,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3135 A"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "7114e39b-36a1-4405-8771-afe8c68ce3d1"
+    },
+    {
+      "start_time": 2730,
+      "end_time": 2730,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "My name is Zora Neal Hurston. I was born in Eatonville, FLorida. I'm 35 years old. This song that I'm going to sing is a railroad song that I found on a railroad gang near Miami and was song to me by Max Ford."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e2266871-572f-4759-8f73-07b8739a862e"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How long ago was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "611f5548-f94f-489a-b441-bfb64cb9f59a"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That was in 1930."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7f4b7d46-6036-4749-9f55-1fbc9f8c555f"
+    },
+    {
+      "start_time": 2756,
+      "end_time": 2756,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How did you happen to be going around getting songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "063de097-ad14-4049-9742-8a8f65144bb6"
+    },
+    {
+      "start_time": 2758,
+      "end_time": 2758,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was collecting folk material for Columbia University as part of the Barnard College, Columbia University."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "884f5e30-b5ee-46f4-ac1a-679239793ca4"
+    },
+    {
+      "start_time": 2766,
+      "end_time": 2766,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is the song called?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "f6d03861-9045-4ec1-b6c0-f4b1087a6edd"
+    },
+    {
+      "start_time": 2767,
+      "end_time": 2767,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They call it Gonna see my long-haired babe and it's a railroad spiking song and the rhythm is kept with a spike and a hammer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b9e8c2d8-f5e0-4251-b0a3-5145531b75a8"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Will you try to emphasize, give me the approximate rhythm of the hammer with the stick by hitting it against that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "d2215732-bf48-453f-9624-2d0d7ad78db6"
+    },
+    {
+      "start_time": 2783,
+      "end_time": 2783,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "f3590ec1-2e49-4fe1-8146-272e8e55173d"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2787,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH sings 'Gonna See My Long-Haired Babe'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "d7e317b4-ecb5-4bc2-a80b-ad0619a6f6cf"
+    },
+    {
+      "start_time": 2884,
+      "end_time": 2884,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Let them hammers ring, boy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "2663ea0b-ee02-4330-b141-931bfaa7637a"
+    },
+    {
+      "start_time": 2888,
+      "end_time": 2888,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see you, you seem to be hitting down twice for a hammer. Why is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "a698cd76-2f8d-4e2d-9701-1336de94862b"
+    },
+    {
+      "start_time": 2895,
+      "end_time": 2895,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, the men face each other with hammers and they call on each other; they're breasted, they stand breast to breast and one comes down and the other one comes down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6e43e078-f1f1-46e9-89f6-18e72891929c"
+    },
+    {
+      "start_time": 2903,
+      "end_time": 2903,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Immediately afterwards?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "201eb765-4a9e-4976-bd07-3e6b01bd670f"
+    },
+    {
+      "start_time": 2904,
+      "end_time": 2904,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, one comes down [strike, strike]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "916fda9e-6f81-4446-b6b8-aeafc00b3d38"
+    },
+    {
+      "start_time": 2907,
+      "end_time": 2907,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see [strike, strike] and how long is that between the double strikes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "7815a212-db69-4432-ae68-cbb1ff9bd7ac"
+    },
+    {
+      "start_time": 2913,
+      "end_time": 2913,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The minute that one goes down, the other is on the upstroke and comes right down behind it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "5d398a14-a9e5-483e-97e3-93d16814e53b"
+    },
+    {
+      "start_time": 2917,
+      "end_time": 2917,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And who does the singing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "7e6a6880-9b88-42b8-9e98-2ef57c4f20e0"
+    },
+    {
+      "start_time": 2918,
+      "end_time": 2918,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "35cb229c-f14f-4af6-a03b-e7cbd9ffd28f"
+    },
+    {
+      "start_time": 2926,
+      "end_time": 2926,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is this for a whole crew of men?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "48f5f0ac-24e5-4404-841e-fd5042e98451"
+    },
+    {
+      "start_time": 2927,
+      "end_time": 2927,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "90c15077-1103-4702-aa89-6ddd5c5d6f2b"
+    },
+    {
+      "start_time": 2935,
+      "end_time": 2935,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What I'm asking you is if you hear that you only hear the one man singing on a whole section of track."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "63554b05-3878-4f7d-84bd-7bc88b2e7482"
+    },
+    {
+      "start_time": 2941,
+      "end_time": 2941,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Not all the time, because different ones have verses they want to put in themselves and so they jump in and after they start the song but the singing liner always starts it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a5cb1f38-8d7f-4b00-a598-6e94ad178ac2"
+    },
+    {
+      "start_time": 2949,
+      "end_time": 2949,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well now look, uh, the only thing is that you were giving a long piece of singing without the rhythm of the hammer and I want to know approximately how often that comes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "772fb903-49de-4e48-9d9e-ea3741e73cbe"
+    },
+    {
+      "start_time": 2959,
+      "end_time": 2959,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, they often do that and then after that they [distortion] get in there but they [distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fec4e116-d5d5-41c1-b74c-c29dc2c6d112"
+    },
+    {
+      "start_time": 2969,
+      "end_time": 2969,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3135 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "8e672dc2-e66c-4f3c-a25a-9b659f76338e"
+    },
+    {
+      "start_time": 2974,
+      "end_time": 2974,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "50213e14-8ab9-4cec-b86f-099ab4124cd6"
+    },
+    {
+      "start_time": 2978,
+      "end_time": 2978,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, this song I got in Callahan, Florida, which is a railroad center in the northern part of Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "96e0e466-3cc0-4f53-815d-3b25831bac4b"
+    },
+    {
+      "start_time": 2987,
+      "end_time": 2987,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "c4bc0856-1ea4-459b-9596-463f3bd565de"
+    },
+    {
+      "start_time": 2989,
+      "end_time": 2989,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e663dea4-eba7-4059-8950-6bf6d9bf208b"
+    },
+    {
+      "start_time": 2997,
+      "end_time": 2997,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What kind of song is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "de37ec7f-1180-430e-9899-d40bffe33444"
+    },
+    {
+      "start_time": 2999,
+      "end_time": 2999,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that, uh, and also some songs that they be used to, the rhythm to work it into place and then the boss hollers 'Bring 'em a hammer gang' and they start to spike it down. And this is a chant for lining the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6a8b0fb9-7a4f-424e-a6ef-739c84ac25c1"
+    },
+    {
+      "start_time": 3029,
+      "end_time": 3029,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "112f1703-cf61-413a-a7b9-915291018702"
+    },
+    {
+      "start_time": 3051,
+      "end_time": 3051,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'd like you to do that again. But this time, when they have . . . What do they call the irons they use?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "5a6f64dd-167c-4c0c-aa1b-9081b09a30b4"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3056,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They call it a lining bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "40260dd0-0a26-4c70-a3e7-894306937d84"
+    },
+    {
+      "start_time": 3057,
+      "end_time": 3057,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. The lining bar. When they work but don't you hear the clink of it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "ee6d2324-7781-4efc-9e76-5bbb16f4ad51"
+    },
+    {
+      "start_time": 3062,
+      "end_time": 3062,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "65d7a7e0-29a7-4841-815e-63b7ea6ed26a"
+    },
+    {
+      "start_time": 3068,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They hit against it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9229ce97-2d9a-4e2b-9a70-c047bcf81ee8"
+    },
+    {
+      "start_time": 3069,
+      "end_time": 3069,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, it's under it. You see, it's just like on this. It's a crow bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7e0de62f-0cd2-4e46-b9fa-ae26ec11a195"
+    },
+    {
+      "start_time": 3073,
+      "end_time": 3073,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Because over in Mississippi, they showed me by hitting the thing. They said that the way that they did it was by several men taking a short hit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4c0ff2c8-bafd-49cb-a226-c2174fee140f"
+    },
+    {
+      "start_time": 3082,
+      "end_time": 3082,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I've seen them put it between their legs this way and put it back and they get this, this splange under the rail, and then they 'heh, heh'. You know, like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ec2ea60f-f418-4562-8196-d9176bee9733"
+    },
+    {
+      "start_time": 3091,
+      "end_time": 3091,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, now what do they do? Are they pulling it, pulling it --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "606fc01a-4b90-4416-8034-3b08956e31c3"
+    },
+    {
+      "start_time": 3093,
+      "end_time": 3093,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Pulling it backwards, they're moving it backwards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "104f44dd-a4ae-42fb-81e6-a34bf62bd5a0"
+    },
+    {
+      "start_time": 3094,
+      "end_time": 3094,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words, they have it underneath and they're using the lever to go forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9acf98e8-7724-43e2-80f8-be716a3b992c"
+    },
+    {
+      "start_time": 3098,
+      "end_time": 3098,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's right. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ad0aad57-1407-4275-8d4a-fce867cc17bf"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "fa50067a-9055-46f1-97c0-1ce311f5e792"
+    },
+    {
+      "start_time": 3101,
+      "end_time": 3101,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And all the men, you know because it's always straining and they 'heh'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "510ea4d3-ea29-4967-a306-baaeda77f074"
+    },
+    {
+      "start_time": 3103,
+      "end_time": 3103,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About how many are there on a bar?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "977d16c6-bbdf-44a0-a320-ac6664553699"
+    },
+    {
+      "start_time": 3104,
+      "end_time": 3104,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, some time it's about 7 or 8 on at one time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "4a1e4775-c319-4600-a97f-8b06b147ac66"
+    },
+    {
+      "start_time": 3109,
+      "end_time": 3109,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hmhm. Well, I suppose you try it and you sing it over again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b7090b9c-bbd1-43f3-8f24-6eef97c07d5e"
+    },
+    {
+      "start_time": 3112,
+      "end_time": 3112,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "02be4b24-d480-47f4-b308-536663704e49"
+    },
+    {
+      "start_time": 3113,
+      "end_time": 3113,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Or chant it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "94d17bc7-ad59-493c-bdf5-a7d3be1b4f4d"
+    },
+    {
+      "start_time": 3117,
+      "end_time": 3117,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "2c13cea1-760e-4e32-80c1-cb8853dadea2"
+    },
+    {
+      "start_time": 3143,
+      "end_time": 3143,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "449a59f5-a390-4efb-9ba7-86ee5bbcccaf"
+    },
+    {
+      "start_time": 3154,
+      "end_time": 3154,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What's it used for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "53e6ae41-700b-4655-ade1-e6077f35c358"
+    },
+    {
+      "start_time": 3155,
+      "end_time": 3155,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Used for spiking down the rails."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ded38bfb-5aaf-4eb3-a5c9-7408ddfc87a8"
+    },
+    {
+      "start_time": 3158,
+      "end_time": 3158,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH chants 'That Old Black Gal'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "9c223e7a-5010-4976-8126-6ec06c1a1169"
+    },
+    {
+      "start_time": 3228,
+      "end_time": 3228,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3136 A"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "4238bb1f-f979-418a-a494-9de49f8a330a"
+    },
+    {
+      "start_time": 3231,
+      "end_time": 3231,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland, Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "0cf0599f-e746-4876-9ba9-a220fb836f88"
+    },
+    {
+      "start_time": 3244,
+      "end_time": 3244,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About how long ago?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "91173ee3-58ad-465c-8362-20f01b0889d1"
+    },
+    {
+      "start_time": 3246,
+      "end_time": 3246,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, I gathered that in '33, 1933."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "c8732a4f-fb8a-4276-8cae-947e9d20998e"
+    },
+    {
+      "start_time": 3252,
+      "end_time": 3252,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH sings 'Shove it over'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b7293624-5902-41d5-927f-ca66fc6579e2"
+    },
+    {
+      "start_time": 3361,
+      "end_time": 3361,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is again for lining?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "69d2d57b-063d-429c-962b-d635c4a7adb5"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3363,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is a lining rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e332d190-01f3-4a45-8597-2bd4973eb1d6"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3366,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now where is the movement?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "534fbcdd-63e4-4677-9282-0d2bbde8b9dd"
+    },
+    {
+      "start_time": 3366,
+      "end_time": 3372,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "c3e19684-44c5-4910-93c1-aad28ea09d78"
+    },
+    {
+      "start_time": 3372,
+      "end_time": 3376,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words, this song gives them quite a lot of rest in between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9a8be33e-b98a-4a91-a209-3e61ddca853f"
+    },
+    {
+      "start_time": 3376,
+      "end_time": 3377,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Right a lot of rest in between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "5a60aa25-1247-4be6-96cc-40c8f7f225cb"
+    },
+    {
+      "start_time": 3377,
+      "end_time": 3378,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And a harder shove?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "67501ab4-d39f-443c-b259-c9a3eefdf3fa"
+    },
+    {
+      "start_time": 3378,
+      "end_time": 3381,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And a harder shove at the end. And they say 'heh', they all go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "f75c7731-3636-4005-bef9-1f8460c45ea6"
+    },
+    {
+      "start_time": 3381,
+      "end_time": 3386,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It seems to have had a different effect from the other lining one you gave, I mean that one about Mobile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "f82e06fe-6b21-41e3-9d81-ff865893ad0b"
+    },
+    {
+      "start_time": 3386,
+      "end_time": 3396,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, but someone was short and someone only just come to the mood of the liner. And the men work whatever song he sung, they work that rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ee475c5e-9e31-42c6-a42c-74418da147e5"
+    },
+    {
+      "start_time": 3396,
+      "end_time": 3439,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, now when the men are lining, they put the rail down, and then of course the captain, he's crouched straddle of it and uh, looks down it so he can tell when it's lined up in exact line with the others. And if they carry it, well he'll say shove it over and if they carry it too far, he'll say send it back and when they get it exactly in line, he'll tell em 'join it ahead' but then they corrupted that to 'join ahead' and all of them say 'join ahead' for 'join it ahead'. And, uh, so, uh, this song is about a lining and the rhythm goes with, they put this lining bar, this long steel bar, crow bar, between their legs so they have greater purchase and pull back on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "98f45396-07a3-4678-893f-fb70725009ea"
+    },
+    {
+      "start_time": 3439,
+      "end_time": 3442,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, wait a minute. They pull back . . . and how are they facing in relation to the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "3499bea4-e9ee-4281-b66e-8c01a56d29bf"
+    },
+    {
+      "start_time": 3442,
+      "end_time": 3445,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Their back is to the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "86f61fca-6b0c-4e4d-bf92-8a6f0b89880f"
+    },
+    {
+      "start_time": 3445,
+      "end_time": 3448,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In other words, they're pulling up on the bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "f9aa0a83-5352-4110-9b81-9713d8627362"
+    },
+    {
+      "start_time": 3448,
+      "end_time": 3453,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "692a8f1a-1ace-4043-9627-63c56961279a"
+    },
+    {
+      "start_time": 3453,
+      "end_time": 3456,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, what do they do? Do they, how do they get it under the bar, the rail?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "9f29ba84-fb83-4b27-9a19-72d3e1693804"
+    },
+    {
+      "start_time": 3456,
+      "end_time": 3461,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They just push the flange of this lining bar under the rail and then pull back on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4c7b87e6-ebcf-4819-9d87-1797cd3c19b9"
+    },
+    {
+      "start_time": 3461,
+      "end_time": 3463,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Do they have to look back at it or do they just feel it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "d0c2f509-949f-48ca-8c26-2ed8f0f23a13"
+    },
+    {
+      "start_time": 3463,
+      "end_time": 3470,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, they can just feel it. Sometimes they look back, you know, but most of them, they just can feel it and they send it back on there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8d6abadd-ac10-44fa-b1bf-aaa21e688993"
+    },
+    {
+      "start_time": 3470,
+      "end_time": 3480,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, uh, you were saying, you were explaining that there's different rhythms that they have. Are there any particular times when a faster on or a slower one would be used?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "e7b26a1e-3338-494c-a8a3-4027335a1c9b"
+    },
+    {
+      "start_time": 3480,
+      "end_time": 3508,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, it's different; it's not any particular time except just the feeling of the singing liner. Whatever song he starts. If it's a fast rhythm they work fast; if its's a slow one, well they work, you know, a little slower but they get just as much work done, it seems, somehow or another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7da37a82-64e2-4eba-85aa-9c12785a6493"
+    },
+    {
+      "start_time": 3498,
+      "end_time": 3503,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3136 B"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        }
+      ],
+      "uuid": "0a72b9a0-c8bb-4823-8528-ec1a404f3917"
+    },
+    {
+      "start_time": 3508,
+      "end_time": 3511,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "ZNH singing low."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "93fad11f-4768-4f17-a833-a34962cfd908"
+    },
+    {
+      "start_time": 3511,
+      "end_time": 3512,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        }
+      ],
+      "uuid": "b946e577-671f-4ba3-ba14-25c10a88dc5e"
+    },
+    {
+      "start_time": 3512,
+      "end_time": 3531,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright, this song I'm going to sing is a lining rhythm and I'm going to call it Mule on the Mount though you can start with any verse you want and give it a name and it's the most widely distributed work song in the United States and it has innumerable verses and whatnot about everything under the sun and it's a lining rhythm though they sometimes sing it just [cut off]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "5cae60a1-e7be-4a20-86a1-dc541c8625b5"
+    }
+  ],
   "set": "Default",
   "event_id": "60819904-d0d4-4300-b8b5-9b4eea33b789",
   "source_id": "4625cde0-1b50-4f1d-9098-444239d20462"
